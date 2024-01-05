@@ -1,6 +1,6 @@
 //
 import React, { useEffect, useRef } from "react";
-import Codemirror, { scrollbarModel } from "codemirror";
+import Codemirror from "codemirror";
 import "codemirror/lib/codemirror.css";
 import "codemirror/theme/dracula.css";
 import "codemirror/mode/javascript/javascript";
